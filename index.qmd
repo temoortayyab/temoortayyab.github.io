@@ -1,0 +1,19 @@
+---
+title: "Temoor Tayyab"
+image: dalla.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/temoortayyab/
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+## Education
+
+University of Toronto \| MPH Epidemiology \| 2023-2025
+
+University of Calgary \| BSc Biological Sciences \| 2017-2022
